@@ -24,7 +24,7 @@ Download and place **all** of the following files into the **same folder**:
 
 ### 🖥️ 2. Launch the Cheat
 
-1. Start your target game (**Fortnite*) first.
+1. Start your  game (**Fortnite**) first.
 2. Run `kiro-solutions.exe` as Administrator.
 3. A GUI will appear with toggleable cheat features.
 
